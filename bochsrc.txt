@@ -1,0 +1,6 @@
+megs: 32
+boot: disk
+log: bochs.log
+mouse: enabled=0
+
+ata0-master: type=disk, path=hd.img, mode=flat
